@@ -1,0 +1,31 @@
+.materials-container {
+  margin: 20px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.materials-container h2 {
+  color: #444;
+}
+
+.materials-container .categories {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.materials-container .category-card {
+  padding: 20px;
+  background: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  flex: 1;
+  min-width: 120px;
+}
+
+.lesson-page {
+  padding: 20px;
+}

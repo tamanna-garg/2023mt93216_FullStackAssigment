@@ -1,0 +1,41 @@
+.category-container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.category-container h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.materials-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.material-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.material-item h3 {
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+.material-item p {
+  line-height: 1.6;
+}
+
+audio {
+  margin-top: 10px;
+  width: 100%;
+}
